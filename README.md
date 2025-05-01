@@ -3,6 +3,8 @@
 
 This repository presents an end-to-end analytical exploration of loan application data, focusing on uncovering patterns in loan approval and providing actionable business recommendations. It showcases skills in SQL, Excel, Python, and business storytelling.
 
+[Dashboard](https://app.powerbi.com/groups/me/reports/249ed85e-3d3c-4271-a92a-653126ed5c13/ReportSection?experience=power-bi)
+
 ---
 
 ## 📁 Project Structure
